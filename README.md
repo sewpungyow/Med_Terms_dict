@@ -4,6 +4,9 @@ Medical terminology Obsidian demovault
 The content of this interactive dictionary is taken from Dunmore and Fleischer's *MEDICAL TERMINOLOGY Exercises in Etymology Edition III^[Walker-Esbaugh, Cheryl, Laine H. McCarthy, Rhonda A. Sparks, and Charles William Dunmore. _Dunmore and Fleischer’s Medical Terminology: Exercises in Etymology_. Ed. 3. Philadelphia, PA: F. A. Davis Co, 2004.]* (The book actually explains how to interpret and use this info.)
 This interactive dictionary is made using the free program, [Obsidian.MD](https://obsidian.md/)^[https://obsidian.md/]
 
+View this [tutorial video](https://www.youtube.com/watch?v=NaiU_YdZpfo) to see how the vault works.
+Download the full vault via [github](https://github.com/sewpungyow/Med_Terms_dict/blob/main/Med_terms_dictionary_sewpungyow.zip) or [mega](https://mega.nz/folder/gLNDRZxb#IXpI4dQRbWU8Q-wzyR4D0g)
+
 ### About:
 1. The **main use** of this database is to help break down medical terms that you might come across while taking notes for med school.
 	- For example: [[achlorhydria]] can be parsed if you know how to identify the roots:
